@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-google-genai # NEW: For Google Gemini
+faiss-cpu
+python-dotenv
+pypdf
+unstructured
